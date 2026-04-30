@@ -6,6 +6,7 @@ A decentralized subscription management platform built on the Stellar blockchain
 [![Rust](https://img.shields.io/badge/Rust-1.94+-orange)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Network](https://img.shields.io/badge/Network-Testnet-yellow)](https://stellar.expert/explorer/testnet)
+[![GitHub](https://img.shields.io/github/stars/0xnly/stellar-subscription-manager?style=social)](https://github.com/0xnly/stellar-subscription-manager)
 
 ## 🚀 Live Deployment
 
