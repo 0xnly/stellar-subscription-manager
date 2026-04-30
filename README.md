@@ -1,6 +1,9 @@
 # StellarSubs
 
 A decentralized subscription management platform built on the Stellar blockchain using Soroban smart contracts. Pay for your favorite services — Spotify, Netflix, YouTube, LinkedIn — using XLM with near-zero fees, instant settlement, and full on-chain transparency.
+https://www.loom.com/share/d0b4993f317c45c9a96ab57fab663f5b
+
+
 
 [![Stellar](https://img.shields.io/badge/Stellar-Soroban-blue)](https://soroban.stellar.org/)
 [![Rust](https://img.shields.io/badge/Rust-1.94+-orange)](https://www.rust-lang.org/)
@@ -9,7 +12,7 @@ A decentralized subscription management platform built on the Stellar blockchain
 [![GitHub](https://img.shields.io/github/stars/0xnly/stellar-subscription-manager?style=social)](https://github.com/0xnly/stellar-subscription-manager)
 
 ## 🚀 Live Deployment
-
+<img width="870" height="111" alt="image" src="https://github.com/user-attachments/assets/7998b9ce-2b6a-4101-91b7-57e1a9f06def" />
 **Contract ID**: `CA6IVHXE2W7VBJO6ZGWGDHHSOVF2AJHIVGDTLBUKZJIGYXO4LNDUAU7C`  
 **Network**: Stellar Testnet  
 **Status**: ✅ Active & Tested  
